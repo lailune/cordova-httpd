@@ -1123,6 +1123,7 @@ public class NanoHTTPD
 						"swf		application/x-shockwave-flash " +
 						"js			application/javascript "+
 						"mjs		application/javascript "+
+						"svg		image/svg+xml "+
 						"pdf		application/pdf "+
 						"doc		application/msword "+
 						"ogg		application/x-ogg "+
